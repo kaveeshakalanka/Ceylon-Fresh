@@ -1,0 +1,1 @@
+<?php $conn = new mysqli('localhost','root','','ceylonfresh'); if($conn->connect_error){ die('Connection failed'); } ?>

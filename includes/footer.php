@@ -1,0 +1,1 @@
+</div><footer>&copy; <?php echo date('Y'); ?> Ceylon Fresh</footer></body></html>
